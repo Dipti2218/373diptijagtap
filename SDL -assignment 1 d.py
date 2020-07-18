@@ -1,9 +1,11 @@
-n1=int (input ("Enter the first no.="))
-n2=int (input ("Enter the second no.="))
-print("N1=",n1)
-print(N2=",n2)
+first=10
+second=20
 
-d=n1/n2
+#sum of two no
+print(f"here we are sum of two no {first+second}")
 
-print(int(d))
-print(float(d))
+#difference of two no
+print(f"here we are different of two no {first-second}")
+
+#product of two no
+print(f"here we are product of two no {first*second}")
